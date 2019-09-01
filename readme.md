@@ -1,4 +1,4 @@
-# ospec Typescript Example
+# ospec TypeScript Example
 
 This uses `ts-node` to run TypeScript ospec test scripts directly, without compiling them.
 
